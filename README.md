@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdulhakim-Maha you can call me "austiniqer"
 - 👀 I’m interested in Front-end Developer
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ... idk
 - 📫 How to reach me dekkim6@gmail.com
 
