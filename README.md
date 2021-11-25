@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ... idk
 - 📫 How to reach me dekkim6@gmail.com
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulhakim-Maha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+---
 <!---
 Abdulhakim-Maha/Abdulhakim-Maha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
