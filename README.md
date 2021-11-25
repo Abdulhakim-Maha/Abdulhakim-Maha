@@ -6,6 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdulhakim-Maha&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulhakim-Maha&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Abdulhakim-Maha/Abdulhakim-Maha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
