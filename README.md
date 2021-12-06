@@ -10,6 +10,8 @@
 
 <figure><embed src="https://wakatime.com/share/@882d82e8-979d-4edc-affa-20315c0e3a4c/c8e6f430-a435-4565-b9f0-c2deda80dd28.svg"></embed></figure>
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Abdulhakim-Maha)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 Abdulhakim-Maha/Abdulhakim-Maha is a ✨ special ✨ repository because its `README.md` (this file)a appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
