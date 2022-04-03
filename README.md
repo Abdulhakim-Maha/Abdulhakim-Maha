@@ -19,3 +19,4 @@
 Abdulhakim-Maha/Abdulhakim-Maha is a ✨ special ✨ repository because its `README.md` (this file)a appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<a href="https://app.daily.dev/austiniqer"><img src="https://api.daily.dev/devcards/b1a58ff4b0f740019477218779b7029f.png?r=zn5" width="400" alt="Abdulhakim Maha's Dev Card"/></a>
