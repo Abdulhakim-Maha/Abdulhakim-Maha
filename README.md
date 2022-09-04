@@ -9,8 +9,6 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/austiniqer.png" alt="TryHackMe">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulhakim-Maha&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=austiniqer&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
