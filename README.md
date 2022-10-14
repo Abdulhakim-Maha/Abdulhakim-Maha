@@ -88,12 +88,13 @@
 
 ###
 
+
+
+<img  src="https://raw.githubusercontent.com/Abdulhakim-Maha/Abdulhakim-Maha/output/snake.svg" alt="Snake animation" />
+
+###
 <br clear="both">
 
 <img align="right" height="170" src="https://i.imgflip.com/6g02o9.gif"  />
-
-###
-
-<img align="left" src="https://raw.githubusercontent.com/Abdulhakim-Maha/Abdulhakim-Maha/output/snake.svg" alt="Snake animation" />
 
 ###
