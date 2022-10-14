@@ -96,5 +96,4 @@
 
 <img src="https://raw.githubusercontent.com/Abdulhakim-Maha/Abdulhakim-Maha/blob/output/snake.svg" alt="Snake animation" />
 
-
 ###
