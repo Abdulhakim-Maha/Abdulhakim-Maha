@@ -90,7 +90,7 @@
 
 <br clear="both">
 
-<img align="right" height="180" src="https://i.imgflip.com/6g02o9.gif"  />
+<img align="right" height="170" src="https://i.imgflip.com/6g02o9.gif"  />
 
 ###
 
