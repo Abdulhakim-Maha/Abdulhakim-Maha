@@ -90,8 +90,18 @@
 
 <br clear="both">
 
-<img  src="https://raw.githubusercontent.com/Abdulhakim-Maha/Abdulhakim-Maha/output/snake.svg" alt="Snake animation" />
+<div style="background-color:white">
+  <img  src="https://raw.githubusercontent.com/Abdulhakim-Maha/Abdulhakim-Maha/output/snake.svg" alt="Snake animation" />
+</div>
 
-<img align="right" height="170" src="https://i.imgflip.com/6g02o9.gif"  />
+<div style="margin-top:20px;display:flex;justify-content:space-between;align-items:center;width:100vw;" >
+  <div style="background-color:white;width:50%" >
+    <img style="" height="300" width="100%" src="https://i.imgflip.com/6g02o9.gif"  />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/austiniqer.png"  width="100%"  alt="TryHackMe">
+  </div>
 
+  <div style="background-color:none;margin-right:80px">
+  <a align="right" href="https://app.daily.dev/austiniqer"><img src="https://api.daily.dev/devcards/b1a58ff4b0f740019477218779b7029f.png?r=zn5" width="300"  alt="Abdulhakim Maha's Dev Card"/></a>
+  </div>
 
+</div>
