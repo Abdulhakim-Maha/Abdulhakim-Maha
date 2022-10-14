@@ -94,6 +94,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Abdulhakim-Maha/Abdulhakim-Maha/output/snake.svg" alt="Snake animation" />
+<img align="left" src="https://raw.githubusercontent.com/Abdulhakim-Maha/Abdulhakim-Maha/output/snake.svg" alt="Snake animation" />
 
 ###
