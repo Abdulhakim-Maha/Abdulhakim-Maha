@@ -99,7 +99,6 @@
   <div style="background-color:white;width:50%" >
     <img style="" height="300" width="100%" src="https://i.imgflip.com/6g02o9.gif"  />
     <img src="https://tryhackme-badges.s3.amazonaws.com/austiniqer.png" alt="TryHackMe">
-    <script src="https://tryhackme.com/badge/804217"></script>
   </div>
 
   <div style="background-color:none;margin-right:80px">
